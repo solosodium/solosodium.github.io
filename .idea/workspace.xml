@@ -66,8 +66,8 @@
       <file leaf-file-name="hyde.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/hyde.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+            <state relative-caret-position="410">
+              <caret line="233" column="13" selection-start-line="233" selection-start-column="13" selection-end-line="233" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -330,12 +330,12 @@
       <workItem from="1465447815857" duration="131000" />
       <workItem from="1465448157278" duration="197000" />
       <workItem from="1466436316295" duration="543000" />
-      <workItem from="1466437240968" duration="3083000" />
+      <workItem from="1466437240968" duration="3225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13540000" />
+    <option name="totallyTimeSpent" value="13682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -551,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/hyde.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+        <state relative-caret-position="410">
+          <caret line="233" column="13" selection-start-line="233" selection-start-column="13" selection-end-line="233" selection-end-column="13" />
           <folding />
         </state>
       </provider>
