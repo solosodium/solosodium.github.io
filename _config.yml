@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            A Blog
 tagline:          'Hao Fu'
-description:      Purely for the purpose of using GitHub to write blogs.
+description:      'Purely for the purpose of using GitHub to write blogs. By <a href="https://github.com/solosodium" target="_blank">Hao Fu</a>'
 url:              http://solosodium.github.io
 baseurl:          /
 
