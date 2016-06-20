@@ -11,8 +11,7 @@ theme:
   description: "Hao's Blog | solosodium" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Android and stuff.</p>
+  header_text:
   header_text_feature_image:
   footer_text: >
       Hao Fu's Blog | 2016

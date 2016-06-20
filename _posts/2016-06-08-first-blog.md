@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Blog
-feature-image: "img/color_d.png"
+feature-image:
 ---
-
-This is the first post when I got Jekyll and theme configured.
+Got Jekyll and theme configured.
