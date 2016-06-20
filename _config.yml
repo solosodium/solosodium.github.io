@@ -1,70 +1,26 @@
-# SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://solosodium.github.io" # the base hostname & protocol for your site
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# THEME-SPECIFIC CONFIGURATION
-theme:
-  # Meta
-  title: Hao Fu's Blog
-  avatar: avatar.png
-  gravatar: # Email MD5 hash
-  description: "Hao's Blog | solosodium" # used by search engines
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-  # Header and footer text
-  header_text:
-  header_text_feature_image:
-  footer_text: >
-      Hao Fu's Blog | 2016
-  # Icons
-  rss: false
-  email_address:
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github: "solosodium"
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter:
-  wordpress:
-  youtube:
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: true # Enable if using math markup
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+paginate:         5
 
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+# Custom vars
+version:          2.1.0
 
-  # Post navigation
-  post_navigation: false
-
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-gems: [jekyll-paginate]
+github:
+  repo:           https://github.com/poole/hyde
