@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            A Blog
 tagline:          'Hao Fu'
-description:      Purely for the purpose of using GitHub for writing blogs.
+description:      Purely for the purpose of using GitHub to write blogs. By Hao Fu.
 url:              http://solosodium.github.io
 baseurl:          /
 
@@ -21,5 +21,5 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
+github:           https://github.com/solosodium
   repo:           https://github.com/poole/hyde
