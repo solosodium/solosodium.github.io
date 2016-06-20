@@ -2,6 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d61cae2-ff74-44c9-a870-ddc8d1d17840" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/404.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/GEMFILE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_includes/disqus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_includes/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_posts/2016-06-08-first-blog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/base/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/base/_utility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/base/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/external/_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/external/_syntax.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/includes/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/includes/_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/layouts/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/_sass/layouts/_posts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/img/logo.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/img/main_color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deprecated/js/katex_init.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/deprecated/favicon.png" afterPath="$PROJECT_DIR$/public/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/deprecated/img/avatar.png" afterPath="$PROJECT_DIR$/public/avatar.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="solosodium.github.io.iws" />
@@ -26,8 +56,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -120,6 +150,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solosodium.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solosodium.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -166,11 +210,13 @@
     <property name="js-jscs-nodeInterpreter" value="D:\Develop\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\Repository\GitHub\solosodium.github.io" />
       <recent name="D:\Repository\GitHub\solosodium.github.io\img" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Repository\GitHub\solosodium.github.io" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Repository\GitHub\solosodium.github.io\img" />
     </key>
   </component>
@@ -251,12 +297,12 @@
       <workItem from="1465447815857" duration="131000" />
       <workItem from="1465448157278" duration="197000" />
       <workItem from="1466436316295" duration="543000" />
-      <workItem from="1466437240968" duration="288000" />
+      <workItem from="1466437240968" duration="470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10745000" />
+    <option name="totallyTimeSpent" value="10927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -348,9 +394,9 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-06-08-welcome-to-jekyll.markdown" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/img/avatar.png" />
-    <entry file="file://$PROJECT_DIR$/favicon.png" />
+    <entry file="file://$PROJECT_DIR$/public/favicon.png" />
     <entry file="file://$PROJECT_DIR$/_site/404.html" />
-    <entry file="file://$PROJECT_DIR$/favicon.png" />
+    <entry file="file://$PROJECT_DIR$/public/favicon.png" />
     <entry file="file://$PROJECT_DIR$/_includes/disqus.html" />
     <entry file="file://$PROJECT_DIR$/_includes/footer.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2014-11-30-sample-post.md" />
@@ -421,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
