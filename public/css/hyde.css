@@ -230,7 +230,7 @@ a.sidebar-nav-item:focus {
 .theme-base-0d .related-posts li a:hover {
   color: #2a516b;
 }
-.theme-base-0d .p a {
+.theme-base-0d p > a {
   color: #d14d32;
 }
 
