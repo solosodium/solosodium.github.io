@@ -6,29 +6,39 @@ title: About
 I use this page to remind myself all the styling I can use.
 
 <p class="message">
-    This is a message.
+    This is a message. Use <p class="message"></p>
 </p>
 
+> This a citation section. Use \>
 
+[This is a link to home.](http://solosodium.github.io)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**This is bold text. Use \*\* \*\***
 
-There are currently two themes built on Poole:
+## A title here. Use '##'
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+{% highlight js %}
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+// This is a code block. Use '{% highlight js %}{% endhighlight %}'
 
-## Setup
+var word = 'Hello World';
 
-Some fun facts about the setup of this project include:
+function say (word) {
+    console.log(word);
+}
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+say(word);
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+{% endhighlight %}
 
-Thanks for reading!
+## This is an unordered list
+
+* List item. Use '*'
+* List item. Use '*'
+* List item. Use '*'
+
+## This is an ordered list
+
+1. List item 1. Use '1. '
+2. List item 2. Use '2. '
+3. List item 3. Use '3. '
