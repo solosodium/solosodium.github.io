@@ -18,7 +18,7 @@ I use this page to remind myself all the styling I can use.
 ## A title here. Use \#\#
 
 {% highlight js %}
-// This is a code block. Use {% highlight js %}{% endhighlight %}
+// This is a code block. Use /{/% highlight js /%/}/{/% endhighlight /%/}
 
 var word = 'Hello World';
 
