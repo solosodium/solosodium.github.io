@@ -5,6 +5,7 @@ title: About
 
 I use this page to remind myself all the styling I can use.
 
+
 <p class="message">
     This is a message. Use &lt;p class=&quot;message&quot;&gt;&lt;/p&gt;
 </p>
@@ -15,11 +16,12 @@ I use this page to remind myself all the styling I can use.
 
 **This is bold text. Use \*\* \*\***
 
+*This is italic text. Use \* \**
+
 ## A title here. Use \#\#
 
 {% highlight js %}
 // This is a code block.
-// Use \{\% highlight js \%\}\{\% endhighlight \%\}
 
 var word = 'Hello World';
 
