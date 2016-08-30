@@ -35,7 +35,7 @@ Because we assumed $$S_i \geq S_j$$, we have $$P_i \geq P_j$$, so $$\frac{P_i}{P
 
 As you can see that the maximum is achieved when $$P_i = P_j$$, which is $$S_i = S_j$$, which basically means we bought two identical items.
 
-To make money in any given scenario, the seller should set the profit margin $$\alpha$$ to cover the worst case. So we reached the final conclusion:
+To make money in any given scenario, the seller should set the profit margin $$\alpha$$ to cover the worst case. So we reached the **final conclusion**:
 
 >
 $$\alpha \geq \frac{1}{3}$$. If we reconsider the concept of profit margin as the ratio of profit $$P_i$$ versus selling price $$S_i$$, we are looking at the minimum profit of `25%` out of the selling price.
