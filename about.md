@@ -10,13 +10,15 @@ I use this page to remind myself all the styling I can use.
     This is a message. Use &lt;p class=&quot;message&quot;&gt;&lt;/p&gt;
 </p>
 
-> This a citation section. Use &gt;
+> This a citation section. Use `>`;
 
 [This is a link to home.](http://solosodium.github.io)
 
-**This is bold text. Use \*\* \*\***
+**This is bold text. Use `** **`**
 
-*This is italic text. Use \* \**
+*This is italic text. Use `* *`*
+
+<abbr>This is abbreviations</abbr>. Use `<abbr></abbr>`
 
 ## A title here. Use \#\#
 

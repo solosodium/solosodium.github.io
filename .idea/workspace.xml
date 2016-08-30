@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="82">
-                <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,9 +42,9 @@
         <entry file="file://$PROJECT_DIR$/_site/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1305">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
-                <marker date="1472569727000" expanded="true" signature="3976:3986" ph="..." />
+                <marker date="1472569942000" expanded="true" signature="4167:4177" ph="..." />
               </folding>
             </state>
           </provider>
@@ -70,24 +70,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2014-01-01-example-content.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="690">
-                <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="18" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-01-02-introducing-lanyon.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-01-02-introducing-lanyon.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <first_editor relative-caret-position="210">
+                <caret line="23" column="15" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -357,12 +341,12 @@
       <workItem from="1465448157278" duration="197000" />
       <workItem from="1466436316295" duration="543000" />
       <workItem from="1466437240968" duration="3265000" />
-      <workItem from="1472564750059" duration="4951000" />
+      <workItem from="1472564750059" duration="5124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18673000" />
+    <option name="totallyTimeSpent" value="18846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -621,6 +605,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1305">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1472569942000" expanded="true" signature="4167:4177" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-02-introducing-lanyon.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -638,8 +632,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-01-example-content.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="690">
-            <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="18" />
+          <first_editor relative-caret-position="210">
+            <caret line="23" column="15" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor />
@@ -647,16 +641,6 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1305">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1472569727000" expanded="true" signature="3976:3986" ph="..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
@@ -668,8 +652,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="82">
-            <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
