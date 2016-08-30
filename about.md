@@ -17,7 +17,15 @@ I use this page to remind myself all the styling stuff.
 
 *This is italic text. Use `* *`*
 
-<abbr>This is abbreviations</abbr>. Use `<abbr></abbr>`
+<abbr>This is abbreviations.</abbr>. Use `<abbr></abbr>`
+
+<del>This is deleted text.</del> Use `<del></del>`
+
+<ins>This is inserted text.</ins> Use `<ins></ins>`
+
+<sup>This is superscript text.</sup> Use `<sup></sup>`
+
+<sub>This is subscript text.</sub> Use `<sub></sub>`
 
 ## A title here. Use `##`
 
