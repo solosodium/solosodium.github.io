@@ -6,7 +6,7 @@ title: About
 I use this page to remind myself all the styling I can use.
 
 <p class="message">
-    This is a message. Use <p class="message"></p>
+    This is a message. Use \<p class=\"message\"\>\<\/p\>
 </p>
 
 > This a citation section. Use \>
@@ -15,7 +15,7 @@ I use this page to remind myself all the styling I can use.
 
 **This is bold text. Use \*\* \*\***
 
-## A title here. Use '##'
+## A title here. Use \#\#
 
 {% highlight js %}
 
