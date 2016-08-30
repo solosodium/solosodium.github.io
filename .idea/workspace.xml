@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="180">
-                <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+              <first_editor relative-caret-position="367">
+                <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/_site/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1305">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -355,12 +355,12 @@
       <workItem from="1465448157278" duration="197000" />
       <workItem from="1466436316295" duration="543000" />
       <workItem from="1466437240968" duration="3265000" />
-      <workItem from="1472564750059" duration="4589000" />
+      <workItem from="1472564750059" duration="4694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18311000" />
+    <option name="totallyTimeSpent" value="18416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -650,7 +650,7 @@
     <entry file="file://$PROJECT_DIR$/_site/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1305">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -664,8 +664,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="180">
-            <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <first_editor relative-caret-position="367">
+            <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
