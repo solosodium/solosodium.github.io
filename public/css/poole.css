@@ -67,7 +67,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #d82f23;
   text-decoration: none;
 }
 a strong {
@@ -154,8 +154,8 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
-  color: #bf616a;
+  font-size: 80%;
+  color: #6b0e0e;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
@@ -167,10 +167,13 @@ pre {
   font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
-  white-space: pre-wrap;
   word-break: break-all;
+  /*
+  white-space: pre-wrap;
   word-wrap: break-word;
+  */
   background-color: #f9f9f9;
+  overflow-x: auto;
 }
 pre code {
   padding: 0;

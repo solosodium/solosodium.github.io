@@ -4,7 +4,7 @@ title: What Does Buy One Get One Half Off Means
 published: true
 ---
 
-So what does **Buy One Get One Half Off** really mean? This actually can be shown in very simple math. If you are not interested in the math, here is the short version: `IT MEANS AT LEAST 25% IN PROFIT`.
+So what does **Buy One Get One Half Off** really mean? This actually can be shown in very simple math. If you are not interested in the math, here is the short version: [IT MEANS AT LEAST 25% IN PROFIT](#).
 
 Before we start, let me put down a few logical **assumptions**:
 
@@ -38,4 +38,4 @@ As you can see that the maximum is achieved when $$P_i = P_j$$, which is $$S_i =
 To make money in any given scenario, the seller should set the profit margin $$\alpha$$ to cover the worst case. So we reached the **final conclusion**:
 
 >
-$$\alpha \geq \frac{1}{3}$$. If we reconsider the concept of profit margin as the ratio of profit $$P_i$$ versus selling price $$S_i$$, we are looking at the minimum profit of `25%` out of the selling price.
+$$\alpha \geq \frac{1}{3}$$. If we reconsider the concept of profit margin as the ratio of profit $$P_i$$ versus selling price $$S_i$$, we are looking at the minimum profit of [25%](#) out of the selling price.
