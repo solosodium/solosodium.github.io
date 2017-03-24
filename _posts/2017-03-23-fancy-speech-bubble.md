@@ -10,7 +10,7 @@ Recently, our artist asked me to implement a speech bubble for a game we are dev
 
 ![Night In The Woods screen shot, source: https://static2.gamespot.com/uploads/original/1197/11970954/2563818-screenshot2.png](/custom/2017-03-23-fancy-speech-bubble/nitw.png "Night In The Woods speech bubble")
 
-*Image source: https://static2.gamespot.com/uploads/original/1197/11970954/2563818-screenshot2.png*
+*(Source: https://static2.gamespot.com/uploads/original/1197/11970954/2563818-screenshot2.png)*
 
 In the context of Unity, my first thought is using Unity's own [UI Text](https://docs.unity3d.com/ScriptReference/UI.Text.html) element, which comes in handy with rich text support. The fact that *Night in the Woods (NITW)* is developed with Unity makes me wonder: **How Hard Can It Be**?
 
