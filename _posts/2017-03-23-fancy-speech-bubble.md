@@ -16,7 +16,7 @@ In the context of Unity, my first thought is using Unity's own [UI Text](https:/
 
 ![HHCIB](/custom/2017-03-23-fancy-speech-bubble/hhcib.gif "HHCIB")
 
-As it turned out, pretty hard...
+As it turned out, pretty...
 
 Before I go into details, I need to explain that I used a [ContentSizeFitter](https://docs.unity3d.com/Manual/script-ContentSizeFitter.html) with **Vertical Fit** set to **Preferred** on a UI Text with fixed **Font Size**. The reason for that is I found the **Best Fit** feature of the UI Text not reliable and the attached **TextGenerate** not spitting out any useful information about the rendered text.
 
