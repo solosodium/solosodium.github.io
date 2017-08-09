@@ -54,8 +54,6 @@ Step 2: open **Board Manager** and install **attiny** boards.
 
 ## # Upload Code
 
-Now we can finally upload your code to ATtiny85. But before that, you need to select the right board settings as the following, and make sure to select programmer as **Arduino as ISP**.
+Right before uploading the code, we need to burn the bootloader to the brand new ATtiny85 chip with the following settings. Once bootloader is ready, upload the code, and make sure to select programmer as **Arduino as ISP**.
 
 ![Upload code](/custom/2017-08-07-program-attint85-with-arduino-nano/uc.png "Upload code")
-
-Upload the code, DONE!
