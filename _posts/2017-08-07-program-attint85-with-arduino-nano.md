@@ -58,4 +58,4 @@ Now we can finally upload your code to ATtiny85. But before that, you need to se
 
 ![Upload code](/custom/2017-08-07-program-attint85-with-arduino-nano/uc.png "Upload code")
 
-Upload the code, DONE and DONE!
+Upload the code, DONE!
