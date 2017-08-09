@@ -34,9 +34,9 @@ Here are some tips:
 * Nano pin 13 -> ATtiny85 pin 2
 * Nano pin 12 -> ATtiny85 pin 1
 * Nano pin 11 -> ATtiny85 pin 0
-* Nano pin 10 -> ATtiny85 pin Reset
+* Nano pin 10 -> ATtiny85 Reset
 
-Nano's pins are clearly labeled on the board. In case you are wondering the pin numbers on ATtiny85, here is the pin layout diagram.
+Nano's pins are clearly labeled on the board. In case you are wondering about the pin on ATtiny85, here is the pin layout diagram.
 
 ![ATtiny85 pin layout, source: http://highlowtech.org/?p=1695](/custom/2017-08-07-program-attint85-with-arduino-nano/wu2.png "ATtiny85 pin layout, source: http://highlowtech.org/?p=1695")
 
