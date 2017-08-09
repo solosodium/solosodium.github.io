@@ -3,14 +3,19 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /:year-:month-:day-:title
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+
 # Setup
 title:               Hao's Blog
 tagline:             'Code and Stuff'
 description:         'Just another code blog'
 url:                 http://solosodium.github.io
 baseurl:             ''
-gems:                [jekyll-paginate]
 paginate:            5
+logo:                /public/favicon.png
 
 # About/contact
 author:
